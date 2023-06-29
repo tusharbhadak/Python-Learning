@@ -14,7 +14,7 @@ To get started with Learning Python Together, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/learning-python-together.git
+   git clone https://github.com/tusharbhadak/Python-Learning.git
 
 ## Contributing
 
