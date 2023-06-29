@@ -41,7 +41,7 @@ Python Weekly: A weekly newsletter featuring Python news, articles, and projects
 ## License
 This project is licensed under the MIT License.
 
-Feel free to customize and enhance this template to fit your specific project requirements. Don't forget to replace `your-username` with your actual GitHub username and include any additional sections or information you find relevant for your learning Python Together project.
+Feel free to customize and enhance this template to fit your specific project requirements.
 
 Let's learn Python together and have fun coding! Happy learning! 🚀🎉 
 
