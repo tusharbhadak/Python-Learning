@@ -47,8 +47,6 @@ Here are some helpful resources to kickstart your Python learning journey:
 
 [Python Weekly](https://www.pythonweekly.com/): A weekly newsletter featuring Python news, articles, and projects.
 
-## License
-This project is licensed under the MIT License.
 
 Let's learn Python together and have fun coding! Happy learning! 🚀🎉 
 
